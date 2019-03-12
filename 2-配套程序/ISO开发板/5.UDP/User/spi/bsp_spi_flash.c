@@ -9,8 +9,8 @@
   * @attention
   *
   * 实验平台:野火 iSO STM32 开发板 
-  * 论坛    :http://www.chuxue123.com
-  * 淘宝    :http://firestm32.taobao.com
+  * 论坛    :http://www.firebbs.cn
+  * 淘宝    :http://fire-stm32.taobao.com
   *
   ******************************************************************************
   */
@@ -576,7 +576,7 @@ typedef enum { FAILED = 0, PASSED = !FAILED} TestStatus;
      
 
 /* 发送缓冲区初始化 */
-uint8_t Tx_Buffer[] = " 感谢您选用野火ISO stm32开发板\r\n                http://firestm32.taobao.com";
+uint8_t Tx_Buffer[] = " 感谢您选用野火ISO stm32开发板\r\n                http://fire-stm32.taobao.com";
 uint8_t Rx_Buffer[BufferSize];
 
 __IO uint32_t DeviceID = 0;

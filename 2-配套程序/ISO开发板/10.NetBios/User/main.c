@@ -12,8 +12,8 @@
 *               内网测试，请保证W5500的IP与测试PC机在同一网段内，且不冲突
 * 
 * 实验平台:野火 iSO-MINI STM32 开发板 
-* 论坛    :http://www.chuxue123.com
-* 淘宝    :http://firestm32.taobao.com
+* 论坛    :http://www.firebbs.cn
+* 淘宝    :http://fire-stm32.taobao.com
 ******************************************************************************
 */ 
 #include <stdio.h>

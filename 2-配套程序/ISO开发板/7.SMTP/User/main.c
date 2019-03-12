@@ -9,8 +9,8 @@
 * 								可以自动获取IP地址，也可以使用默认指定的IP地址；
 *
 * 实验平台:野火 iSO-MINI STM32 开发板 
-* 论坛    :http://www.chuxue123.com
-* 淘宝    :http://firestm32.taobao.com
+* 论坛    :http://www.firebbs.cn
+* 淘宝    :http://fire-stm32.taobao.com
 *
 ******************************************************************************
 */ 

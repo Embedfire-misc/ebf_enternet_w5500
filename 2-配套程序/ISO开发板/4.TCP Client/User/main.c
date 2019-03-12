@@ -16,8 +16,8 @@
 *               TCP Server的IP地址和通讯端口，默认为5000
 * 
 * 实验平台:野火 iSO-MINI STM32 开发板 
-* 论坛    :http://www.chuxue123.com
-* 淘宝    :http://firestm32.taobao.com
+* 论坛    :http://www.firebbs.cn
+* 淘宝    :http://fire-stm32.taobao.com
 ******************************************************************************
 */ 
 #include <stdio.h>

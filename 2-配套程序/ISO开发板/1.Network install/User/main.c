@@ -13,8 +13,8 @@
 *               如果是用网线跟PC机直连，请设置PC机本地连接地址IP为静态IP
 *
 * 实验平台:野火 iSO-MINI STM32 开发板 
-* 论坛    :http://www.chuxue123.com
-* 淘宝    :http://firestm32.taobao.com
+* 论坛    :http://www.firebbs.cn
+* 淘宝    :http://fire-stm32.taobao.com
 ******************************************************************************
 */ 
 #include <stdio.h>
