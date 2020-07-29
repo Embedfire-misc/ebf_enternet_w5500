@@ -1,0 +1,9 @@
+版本号：	V1.0 
+日期：2015-02-14
+开发环境	keil MDK4.72
+使用其他版本，可能会出现字符不统一现象。
+
+
+1.NTP、SMTP、DNS 和 HTTPClient 访问的是外网，其中 HTTPClient 连Yeelink（云平台）的
+
+2.其他访问的是内网
